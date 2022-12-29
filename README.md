@@ -15,8 +15,8 @@ $ java main.java
 
 ## Usage
 
-###The bot will
-####prompt you to introduce yourself.
-####try to guess your age using arithmetic operations
-####count from 0 to any number specified
-####quiz you on one specific java question
+### The bot will
+#### prompt you to introduce yourself.
+#### try to guess your age using arithmetic operations
+#### count from 0 to any number specified
+#### quiz you on one specific java question
